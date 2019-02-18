@@ -12,7 +12,7 @@ h1{
 body{
   background-color: pink;
   background-size: cover;
-  opacity: 0.6;
+  /* opacity: 0.6; */
 }
 .heading{
   text-align: center;
@@ -25,7 +25,7 @@ body{
   margin-left: 20%;
   margin-top: 10%;
   height: 80px;
-  width: 250px;
+  width: 240px;
   font-size: 20px;
 }
 .sidebar{
