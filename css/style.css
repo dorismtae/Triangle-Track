@@ -28,3 +28,7 @@ body{
   width: 250px;
   font-size: 20px;
 }
+.sidebar{
+  float: left;
+  background-color: #fff;
+}
