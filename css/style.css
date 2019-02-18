@@ -10,7 +10,7 @@ h1{
 } */
 @import url('https://fonts.googleapis.com/css?family=Economica');
 body{
-  background-image: url("space.png");
+  background-color: darkblue;
   background-size: cover;
   opacity: 0.6;
 }
