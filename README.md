@@ -29,4 +29,4 @@
 * JavaScript
 ## Support and contact details
 { dorismtae@gmail.com}
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {year} **{DORIS MTAE}**
