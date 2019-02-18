@@ -6,20 +6,11 @@
 ## Setup/Installation Requirements
 #### clone: https://github.com/dorismtae/Triangle-Track.git
 ## Behavior Driven Development
-  |                     |                        |                       |
-  |     BEHAVIOR        |   INPUT EXAMPLES       |      OUTPUT EXAMPLE   |
-  |---------------------|------------------------|-----------------------|                   
-  | If all sides are    |     9 =9 = 9           |Equilateral triangle   |
-  | equal.              |                        |                       |
-  |---------------------|------------------------|-----------------------|
-  | If two sides are    |     9= 9 =8            | Isosceles triangle    |
-  |  equal.             |                        |                       |
-  |                     |                        |                       |
-  |---------------------|------------------------|-----------------------|                                   |                     |                        |                       |  
-  |  If  all sides are  |     9 = 4 =3           |  Scalene triangle     |
-  |   not equal.        |                        |                       |
-  |                     |                        |                       |
-
+|  BEHAVIOR                    | INPUT EXAMPLES | OUTPUT EXAMPLES      |  
+|------------------------------|----------------|----------------------|
+| If all sides are equal.      | 9 =9 =9        | Equilateral triangle |
+| If two sides are equal.      | 9= 9 =8        | Isosceles triangle   |
+| If  all sides are not equal. | 9 = 4 =3       | Scalene triangle     | 
 
 ## Known Bugs
 { none }
