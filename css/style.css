@@ -10,7 +10,7 @@ h1{
 } */
 @import url('https://fonts.googleapis.com/css?family=Economica');
 body{
-  background-color: darkblue;
+  background-color: pink;
   background-size: cover;
   opacity: 0.6;
 }
@@ -25,7 +25,7 @@ body{
   margin-left: 20%;
   margin-top: 10%;
   height: 80px;
-  width: 200px;
+  width: 250px;
   font-size: 20px;
 }
 .sidebar{
