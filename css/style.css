@@ -11,7 +11,7 @@ h1{
 @import url('https://fonts.googleapis.com/css?family=Economica');
 body{
   background-color: pink;
-  background-size: cover;
+  /* background-size: cover; */
   /* opacity: 0.6; */
 }
 .heading{
